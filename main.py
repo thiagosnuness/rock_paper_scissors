@@ -9,6 +9,7 @@ to run until the user decides to quit.
 """
 
 from replit import clear
+
 from game import Game
 
 
