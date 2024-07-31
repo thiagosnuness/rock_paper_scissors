@@ -1,3 +1,10 @@
+"""
+art.py
+
+This module contains the ASCII logos used in the Rock, Paper, Scissors game.
+"""
+
+
 rock = '''
     _______
 ---'   ____)
